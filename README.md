@@ -1,8 +1,6 @@
 # TSP-Transformer
 ## Abstract
-Holistic scene understanding includes semantic segmen-
-tation, surface normal estimation, object boundary detec-
-tion, depth estimation, etc. The key aspect of this problem
+Holistic scene understanding includes semantic segmentation, surface normal estimation, object boundary detection, depth estimation, etc. The key aspect of this problem
 is to learn representation effectively, as each subtask builds
 upon not only correlated but also distinct attributes. In-
 spired by visual-prompt tuning, we propose a Task-Specific
