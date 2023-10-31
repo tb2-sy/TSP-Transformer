@@ -13,3 +13,9 @@ Moreover, the task-specific prompts can be seen as switches
 to favor task-specific representation learning for different
 tasks. Extensive experiments on NYUD-v2 and PASCAL-Context show that our method achieves state-of-the-art performance, validating the effectiveness of our method for
 holistic scene understanding.
+
+## TODO/Future work
+- [x] Upload paper and init project
+- [ ] Training and Inference code
+- [ ] Reproducible checkpoint
+
