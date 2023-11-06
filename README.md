@@ -19,6 +19,6 @@ holistic scene understanding.
 - [ ] Training and Inference code
 - [ ] Reproducible checkpoint
 
-## Citation
-If you find our code or paper helps, please consider citing:
+<!--## Citation
+If you find our code or paper helps, please consider citing:-->
 
