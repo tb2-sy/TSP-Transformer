@@ -13,12 +13,21 @@ Moreover, the task-specific prompts can be seen as switches
 to favor task-specific representation learning for different
 tasks. Extensive experiments on NYUD-v2 and PASCAL-Context show that our method achieves state-of-the-art performance, validating the effectiveness of our method for
 holistic scene understanding.
+### [arXiv](https://arxiv.org/pdf/2311.03427.pdf) | [Evaluation Results]()
 
 ## TODO/Future work
 - [x] Upload paper and init project
 - [ ] Training and Inference code
 - [ ] Reproducible checkpoint
 
+## Contact
+For any questions related to our paper and implementation, please email wangshuo2022@shanghaitech.edu.cn.
+
 <!--## Citation
 If you find our code or paper helps, please consider citing:-->
 
+<!--## Acknowledgements
+The code is available under the MIT license and draws from [TensoRF](https://github.com/apchenstu/TensoRF), [DynamicNeRF](https://github.com/gaochen315/DynamicNeRF), and [BARF](https://github.com/chenhsuanlin/bundle-adjusting-NeRF), which are also licensed under the MIT license.
+Licenses for these projects can be found in the `licenses/` folder.
+
+We use [RAFT](https://github.com/princeton-vl/RAFT) and [DPT](https://github.com/isl-org/DPT) for flow and monocular depth prior.-->
