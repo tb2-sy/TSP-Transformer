@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python -m torch.distributed.launch --nproc_per_node=1 --master_port=12345  main.py --config_exp './configs/nyud/nyud_tspL.yml' --run_mode infer #--trained_model  pretrained_model_path
