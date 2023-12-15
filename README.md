@@ -74,7 +74,7 @@ Please download the weights of our SoTA results.
 |Version | Dataset | Download | Segmentation | Depth | Normals | Boundary|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **TSP-Transformer (our paper)** |**NYUD-v2**|[google drive]()| **55.39** | **0.4961** | **18.44** | 77.50 |
-| TaskPrompter (ICLR 2023) |NYUD-v2| - | 55.30 | 0.5152 | 18.47 | **78.20** | 
+| TaskPrompter   (ICLR 2023) |NYUD-v2| - | 55.30 | 0.5152 | 18.47 | **78.20** | 
 |InvPT (ECCV 2022) |NYUD-v2|-| 53.56 | 0.5183 | 19.04 | 78.10 |
 
 
