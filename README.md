@@ -67,13 +67,13 @@ Please download the weights of our SoTA results.
 ```
 |Version | Dataset | Download | Segmentation | Human parsing | Saliency | Normals | Boundary | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **TSP-Transformer (our paper)** | **PASCAL-Context** | [google drive]() | **81.48** | **70.64** | **84.86** | **13.69** | **74.80** | 
+| **TSP-Transformer (our paper)** | **PASCAL-Context** | [google drive](https://drive.google.com/file/d/1dtoHssJGA4rx4QRD8jnUnT1DijWi457y/view?usp=sharing) | **81.48** | **70.64** | **84.86** | **13.69** | **74.80** | 
 | TaskPrompter (ICLR 2023) | PASCAL-Context | - | 80.89 | 68.89 | 84.83 | 13.72 | 73.50 |
 | InvPT (ECCV 2022) | PASCAL-Context | - | 79.03 | 67.61 | 84.81 | 14.15 | 73.00 |
 
 |Version | Dataset | Download | Segmentation | Depth | Normals | Boundary|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **TSP-Transformer (our paper)** | **NYUD-v2** |[google drive]()| **55.39** | **0.4961** | **18.44** | 77.50 |
+| **TSP-Transformer (our paper)** | **NYUD-v2** |[google drive](https://drive.google.com/file/d/1JAiawkZOqc7YEjw3c6tLblQFYs5KkMY6/view?usp=sharing)| **55.39** | **0.4961** | **18.44** | 77.50 |
 | TaskPrompter   (ICLR 2023) |NYUD-v2| - | 55.30 | 0.5152 | 18.47 | **78.20** | 
 |InvPT (ECCV 2022) |NYUD-v2|-| 53.56 | 0.5183 | 19.04 | 78.10 |
 
