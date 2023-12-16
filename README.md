@@ -61,10 +61,7 @@ Set the config files in ```./conifigs```, with PASCAL-Context and NYUD-v2 datase
 ./infer_pascal.sh
 ```
 ## Pre-trained models
-```
-Please download the weights of our SoTA results.
-
-```
+Please download the weights of our SOTA results.
 |Version | Dataset | Download | Segmentation | Human parsing | Saliency | Normals | Boundary | 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **TSP-Transformer (our paper)** | **PASCAL-Context** | [google drive](https://drive.google.com/file/d/1dtoHssJGA4rx4QRD8jnUnT1DijWi457y/view?usp=sharing) | **81.48** | **70.64** | **84.86** | **13.69** | **74.80** | 
