@@ -13,7 +13,7 @@ Moreover, the task-specific prompts can be seen as switches
 to favor task-specific representation learning for different
 tasks. Extensive experiments on NYUD-v2 and PASCAL-Context show that our method achieves state-of-the-art performance, validating the effectiveness of our method for
 holistic scene understanding.
-### [ArXiv](https://arxiv.org/pdf/2311.03427.pdf) 
+### [Paper](https://arxiv.org/pdf/2311.03427.pdf) 
 
 ## Setup
 Tested with PyTorch 1.11 and CUDA 11.3:
