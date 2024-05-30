@@ -31,11 +31,7 @@ pip install timm==0.5.4 einops==0.4.1
 ```
 
 ## Dataset
-We use the same data (PASCAL-Context and NYUD-v2) as InvPT. You can download the data by:
-```bash
-wget https://data.vision.ee.ethz.ch/brdavid/atrc/NYUDv2.tar.gz
-wget https://data.vision.ee.ethz.ch/brdavid/atrc/PASCALContext.tar.gz
-```
+We use the same dataset (PASCAL-Context and NYUD-v2) as InvPT. You can download the data from [here](https://github.com/prismformore/Multi-Task-Transformer/tree/main/InvPT).
 And then extract the datasets by:
 ```bash
 tar xfvz NYUDv2.tar.gz
